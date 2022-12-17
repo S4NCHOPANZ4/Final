@@ -1,0 +1,43 @@
+.profile__user {
+  display: flex;
+  align-items: center;
+  padding: 20px;
+  justify-content: center;
+}
+.profile__user .profile__userImage {
+  width: 100px;
+  height: 100px;
+}
+.profile__user .profile__userName {
+  padding: 20px;
+}
+
+.profile__text {
+  padding: 20px;
+}
+
+.swipes {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+  height: 70px;
+  border-bottom: 1px solid #f9f9f9;
+}
+
+.profile__swipeName {
+  flex: 1;
+}
+
+.profile__swipeImage {
+  margin-right: 20px;
+  height: 60px;
+  width: 60px;
+}
+
+.profile__button {
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  padding: 1vw;
+  background-color: white;
+  color: #ec5e6f;
+}/*# sourceMappingURL=profile.css.map */
